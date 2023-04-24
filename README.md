@@ -13,7 +13,7 @@
 * **Процессор**: Intel Core i5 12400F
 * **Кулер**: Be Quiet! Pure Rock 2
 * **Озу**: ADATA XPG Spectrix D50 16 x 2 gb
-* **Видеокарта**: GigaByte Nvidia GeForce RTX 3060
+* **Видеокарта**: GigaByte Nvidia GeForce RTX 3060 OC
 * **SSD**: NVMe Samsung 970 EVO Plus
 * **БП**: Be Quiet! Power System 10 650W
 * **Корпус**: Ginzzu SL600
