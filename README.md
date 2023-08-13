@@ -1,19 +1,45 @@
-### Привет! 👋
-Меня зовут Максим, и я разработчик, специализирующийся на бэкенд-разработке. Я занимаюсь программированием уже 2 года и люблю учить новые языки и технологии.
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
-## Мои навыки 🔧
-* **Python-разработчик**: Я занимаюсь разработкой на Python в течение 1,5 лет и имею опыт работы с различными фреймворками и библиотеками.
-* **Изучаю Java, PHP, Ruby**: В свободное время я изучаю другие языки программирования, такие как Java, PHP и Ruby, чтобы расширить свои навыки и быть готовым к новым вызовам.
-* **Нейронные сети**: Мне интересно разрабатывать нейросети для себя. Я имею небольшой опыт работы с TensorFlow для создания и обучения моделей.
-* **Технологии и инструменты**: Я знаком с Asyncio, TensorFlow, Django и другими инструментами, которые помогают мне создавать качественные и надежные решения.
-* **Работа с Linux**: Обладаю некоторым опытом использования Linux, в частности с дистрибутивами Debian и Ubuntu.
+<br />
 
-## Моя конфигурация ПК 🖥️
-* **Материнская плата**: GigaByte Gaming x ddr4 z690
-* **Процессор**: Intel Core i5 12400F
-* **Кулер**: Be Quiet! Pure Rock 2
-* **Озу**: ADATA XPG Spectrix D50 16 x 2 gb
-* **Видеокарта**: GigaByte Nvidia GeForce RTX 3060 OC
-* **SSD**: NVMe Samsung 970 EVO Plus
-* **БП**: Be Quiet! Power System 10 650W
-* **Корпус**: Ginzzu SL600
+I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+
+**About me**
+
+- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+
+- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+
+- ❤️ I love writing TypeScript, and building fun experiments on type-level
+
+- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
